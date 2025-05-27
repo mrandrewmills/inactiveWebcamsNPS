@@ -28,7 +28,7 @@ Related Parks: Grand Canyon
 
 ## 🔐 Setup
 
-Set your API key in the environment variable `NPS_API_KEY` (optional, see note below):
+Set your API key in the environment variable `NPS_API_KEY`
 
 ```powershell
 $env:NPS_API_KEY = "your_actual_api_key"
